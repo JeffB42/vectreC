@@ -113,3 +113,6 @@ cmoc/src/lexer.cc
 cmoc/doc/cmoc.1
 cmoc/src/float/float-os9.inc
 cmoc/configure~
+
+# MAME settings written by the emulator (local paths)
+cfg/
